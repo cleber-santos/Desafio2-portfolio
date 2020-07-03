@@ -62,6 +62,7 @@ Foi pedido para ser feito site estilo portfólio, da rocketseat. Com uma estiliz
 
 As interações com os cards, foram feitas em javascript puro.
 
+---
 
 ## :memo: Licença
 
@@ -69,4 +70,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito por Cleber Santos [linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos/) - com a [Rocketseat](https://rocketseat.com.br) :rocket: | [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc)
+Feito por Cleber Santos | [linkedin](https://www.linkedin.com/in/cleber-rodrigo-santos/) - com a [Rocketseat](https://rocketseat.com.br) :rocket: | [Entre na comunidade da rocketseat!](https://discordapp.com/invite/gCRAFhc) :purple_heart:
