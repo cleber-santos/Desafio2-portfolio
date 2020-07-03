@@ -62,10 +62,6 @@ Foi pedido para ser feito site estilo portfólio, da rocketseat. Com uma estiliz
 
 As interações com os cards, foram feitas em javascript puro.
 
-## :movie_camera: Vídeo
-
-![](./video/teste.webm)
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
